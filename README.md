@@ -8,7 +8,9 @@
 #Transform:
 
 •	Cleaned the data to be more presentable using pandas and regular expressions (RegEx).
+
 •	Eliminated damaged and NaN data from the dataset.
+
 •	Combined Wikipedia and Kaggle data using pd. merge function.
 
 #Load:
